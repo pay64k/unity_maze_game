@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e7cfdb340aae11a41acc0f3f060f0a23
+timeCreated: 1475575808
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arch40_010
+    100002: arch40_011
+    100004: arch40_012
+    100006: arch40_013
+    100008: arch40_014
+    100010: arch40_015
+    100012: arch40_016
+    100014: arch40_017
+    100016: arch40_018
+    100018: arch40_019
+    100020: arch40_020
+    100022: arch40_021
+    100024: arch40_022
+    100026: arch40_023
+    100028: arch40_024
+    100030: arch40_070
+    100032: arch40_071
+    100034: arch40_072
+    100036: arch40_073
+    100038: arch40_074
+    100040: arch40_075
+    100042: arch40_076
+    100044: arch40_077
+    100046: arch40_078
+    100048: arch40_079
+    100050: //RootNode
+    400000: arch40_010
+    400002: arch40_011
+    400004: arch40_012
+    400006: arch40_013
+    400008: arch40_014
+    400010: arch40_015
+    400012: arch40_016
+    400014: arch40_017
+    400016: arch40_018
+    400018: arch40_019
+    400020: arch40_020
+    400022: arch40_021
+    400024: arch40_022
+    400026: arch40_023
+    400028: arch40_024
+    400030: arch40_070
+    400032: arch40_071
+    400034: arch40_072
+    400036: arch40_073
+    400038: arch40_074
+    400040: arch40_075
+    400042: arch40_076
+    400044: arch40_077
+    400046: arch40_078
+    400048: arch40_079
+    400050: //RootNode
+    2300000: arch40_010
+    2300002: arch40_011
+    2300004: arch40_012
+    2300006: arch40_013
+    2300008: arch40_014
+    2300010: arch40_015
+    2300012: arch40_016
+    2300014: arch40_017
+    2300016: arch40_018
+    2300018: arch40_019
+    2300020: arch40_020
+    2300022: arch40_021
+    2300024: arch40_022
+    2300026: arch40_023
+    2300028: arch40_024
+    2300030: arch40_070
+    2300032: arch40_071
+    2300034: arch40_072
+    2300036: arch40_073
+    2300038: arch40_074
+    2300040: arch40_075
+    2300042: arch40_076
+    2300044: arch40_077
+    2300046: arch40_078
+    2300048: arch40_079
+    3300000: arch40_010
+    3300002: arch40_011
+    3300004: arch40_012
+    3300006: arch40_013
+    3300008: arch40_014
+    3300010: arch40_015
+    3300012: arch40_016
+    3300014: arch40_017
+    3300016: arch40_018
+    3300018: arch40_019
+    3300020: arch40_020
+    3300022: arch40_021
+    3300024: arch40_022
+    3300026: arch40_023
+    3300028: arch40_024
+    3300030: arch40_070
+    3300032: arch40_071
+    3300034: arch40_072
+    3300036: arch40_073
+    3300038: arch40_074
+    3300040: arch40_075
+    3300042: arch40_076
+    3300044: arch40_077
+    3300046: arch40_078
+    3300048: arch40_079
+    4300000: arch40_077
+    4300002: arch40_070
+    4300004: arch40_071
+    4300006: arch40_072
+    4300008: arch40_073
+    4300010: arch40_074
+    4300012: arch40_075
+    4300014: arch40_076
+    4300016: arch40_078
+    4300018: arch40_079
+    4300020: arch40_010
+    4300022: arch40_011
+    4300024: arch40_012
+    4300026: arch40_013
+    4300028: arch40_014
+    4300030: arch40_015
+    4300032: arch40_016
+    4300034: arch40_017
+    4300036: arch40_018
+    4300038: arch40_019
+    4300040: arch40_020
+    4300042: arch40_021
+    4300044: arch40_022
+    4300046: arch40_023
+    4300048: arch40_024
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
